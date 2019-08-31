@@ -9,8 +9,8 @@
 
 
 salt_mask = 0x3a
-key_sz = 32
-key_iter = 64000
+key_sz = 78
+key_iter = 99000
 hmac_key_sz = 32
 hmac_key_iter = 2
 page_sz = 1024
